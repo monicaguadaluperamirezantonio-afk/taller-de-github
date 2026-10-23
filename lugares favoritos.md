@@ -1,0 +1,4 @@
+playa 
+macdonals 
+centro
+cenote
